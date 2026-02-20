@@ -70,7 +70,7 @@ Results are exactly reproducible across platforms.
 
 Matt Waltman & Aurora
 Richter Farms, Grundy County, Iowa
-mwaltman@richterfarms.com
+matt.richterfarms@gmail.com
 
 ## License
 
